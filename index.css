@@ -23,6 +23,7 @@
     .image{
         background-image: url("https://itsjeevesh.github.io/moonbg.jpg");
         background-size: cover;
+       overflow:auto;
         background-image: no-repeat;
         height: 100vh;}
     .connect
@@ -33,8 +34,6 @@
         height: auto;
         font-size: 30px;
         margin-top:70px;
-        margin-left:500px ;
-        margin-right: 500px;
         text-align: center;
     }
     .color{
