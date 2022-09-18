@@ -21,7 +21,7 @@
         padding: 0;
     }
     .image{
-        background-image: url("moonbg.jpg");
+        background-image: url("https://itsjeevesh.github.io/moonbg.jpg");
         background-size: cover;
         background-image: no-repeat;
         height: 100vh;}
