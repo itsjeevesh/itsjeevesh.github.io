@@ -1,4 +1,5 @@
    
+       
     .text{
         font-size: 35px;
         color:gainsboro;
@@ -21,12 +22,13 @@
         padding: 0;
     }
     .image{
-       width: 100%;
+        width:100%;
         background-image: url("https://itsjeevesh.github.io/moonbg.jpg");
         background-size: cover;
-       overflow:auto;
+        overflow: auto;
         background-image: no-repeat;
         height: 100vh;}
+        
     .connect
     {  background-color: beige;
         color:coral;
@@ -43,7 +45,7 @@
     .centerdiv{
         display:flex;
         justify-content: center;
-        align-items:center;
+        align-items:left;
         margin-top: 10px;
     }
     .anchor{
