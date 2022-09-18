@@ -3,14 +3,14 @@
     .text{
         font-size: 35px;
         color:gainsboro;
-        padding-left: 80px;
+        margin-left: 20px;
         padding-top: 250px;
     }
     .text2{
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size:15px;
         color:gainsboro;
-        padding-left: 80px;
+        margin-left: 20px;
         padding-top: 8px;
     }
     .orion{
