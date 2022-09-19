@@ -23,6 +23,7 @@
     }
     .image{
         width:100%;
+       background-color: darkslategray;
         background-image: url("https://itsjeevesh.github.io/moonbg.jpg");
         background-size: cover;
         overflow: auto;
